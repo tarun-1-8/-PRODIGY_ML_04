@@ -77,14 +77,7 @@ The aim is to develop a **Convolutional Neural Network (CNN)** that:
 
 ---
 
-## 📁 Files Included
 
-| File Name | Description |
-|-----------|-------------|
-| `Task02_Food_Recognition_Calorie_Estimation.ipynb` | Complete notebook with training and prediction |
-| `sample_predictions.png` | Grid showing predicted food item and calories |
-| `accuracy_loss_plot.png` | Model training vs validation accuracy/loss |
-| `README.md` | This documentation file |
 
 ---
 
